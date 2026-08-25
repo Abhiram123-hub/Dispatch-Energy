@@ -132,4 +132,4 @@ Solar Resource
    ↓
 PVWatts
    ↓
-Energy Estimate
+Energy Estimate .
