@@ -13,6 +13,3 @@
               DATA
                 │
            sites.json
-
-
-           
