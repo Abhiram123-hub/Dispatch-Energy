@@ -1,0 +1,7 @@
+{
+  "site_name": "Dispatch Energy Assessment",
+  "version": "0.1.0",
+  "features": {
+    "health_check": true
+  }
+}

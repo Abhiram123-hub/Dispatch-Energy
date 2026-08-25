@@ -1,0 +1,29 @@
+{
+  "sites": [
+    {
+      "id": "site-001",
+      "name": "Washington DC Office",
+      "address": "1600 Pennsylvania Avenue NW, Washington, DC 20500"
+    },
+    {
+      "id": "site-002",
+      "name": "New York Office",
+      "address": "350 Fifth Avenue, New York, NY 10118"
+    },
+    {
+      "id": "site-003",
+      "name": "Chicago Office",
+      "address": "233 S Wacker Drive, Chicago, IL 60606"
+    },
+    {
+      "id": "site-004",
+      "name": "Cupertino Office",
+      "address": "1 Apple Park Way, Cupertino, CA 95014"
+    },
+    {
+      "id": "site-005",
+      "name": "Unlisted Facility",
+      "address": "99999 Nonexistent Road, Nowhereville, ZZ 00000"
+    }
+  ]
+}
